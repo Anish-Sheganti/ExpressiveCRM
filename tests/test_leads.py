@@ -8,8 +8,8 @@ def test_leads_tab():
     driver.get("http://localhost:8080/espocrm/index.php")
 
     # login code (fill username, password, submit)
-    driver.find_element(By.ID, "field-userName").send_keys("admin")
-    driver.find_element(By.ID, "field-password").send_keys("Kavya@123")
+    driver.find_element(By.ID, "username").send_keys("admin")
+    driver.find_element(By.ID, "password").send_keys("Kavya@123")
     driver.find_element(By.ID, "login-button").click()
 
     # Wait for dashboard/homepage to load (optional)
