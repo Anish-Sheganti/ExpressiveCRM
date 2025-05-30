@@ -26,9 +26,6 @@ ExpressiveCRM/
 ├── requirements.txt
 └── README.md
 
-bash
-Copy
-Edit
 
 ## 🛠️ Technologies Used
 
@@ -40,7 +37,7 @@ Edit
 
 ## 🚀 Run the Project
 
-```bash
+
 # Install all dependencies
 pip install -r requirements.txt
 
