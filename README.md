@@ -6,11 +6,12 @@ This project is an **End-to-End Selenium Automation Test Suite** built using **P
 
 ## 🚀 Tech Stack
 
-- 🐍 Python 3.13
-- 🧪 Selenium WebDriver
-- ✅ Pytest
-- 🧾 Pytest-HTML (for reporting)
-- 🌐 Google Chrome (via ChromeDriver)
+ ![Python](https://img.shields.io/badge/python-3.11-blue.svg?logo=python)
+![Selenium](https://img.shields.io/badge/selenium-4.20.0-brightgreen.svg?logo=selenium)
+![PyTest](https://img.shields.io/badge/pytest-8.1.1-yellow.svg?logo=pytest)
+![GitHub Actions](https://img.shields.io/badge/CI-GitHub_Actions-blue?logo=github)
+![HTML Report](https://img.shields.io/badge/report-html-orange)
+
 
 ---
 
