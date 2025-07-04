@@ -58,5 +58,4 @@ ExpressiveCRM/
 ├── requirements.txt
 └── README.md
 
-✍️ Author
-KavyaSri Singam
+
